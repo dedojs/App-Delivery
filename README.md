@@ -1,4 +1,7 @@
 # App-Delivery
+
+VIDEO DE APRESENTAÇÃO DO APLICATIVO: https://www.youtube.com/watch?v=Z0zONnLrn_E
+
 Projeto App Delivery - Sistema Full Stack que simula uma distribuidora de bebidas
 
 Nessa aplicação, o grupo ficou responsável por criar e integrar tanto o back-end quanto o front-end, criando uma plataforma de delivery de cerveja. 🍻
